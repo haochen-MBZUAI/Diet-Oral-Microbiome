@@ -1,0 +1,13 @@
+# Participant-level data and analysis outputs are never committed
+*.csv
+!dietary_score_definitions/supplementary2.csv
+*.parquet
+*.pkl
+*.xlsx
+data/
+outputs/
+
+# Python and Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

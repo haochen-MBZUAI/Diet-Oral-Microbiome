@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+statsmodels
+scikit-learn
+lightgbm
+shap
+jupyter
